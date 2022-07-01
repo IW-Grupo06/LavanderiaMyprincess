@@ -1,11 +1,11 @@
 # Responsive Website Delivery 🚚
 ### Responsive Website Delivery
 
-- Website Delivery, using HTML, Sass and JavaScript.
-- Includes a dark and light mode.
-- Color customization.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Sitio web de la lavandería Myprincess, usando HTML, Sass y  JavaScript.
+- Incluye un modo oscuro y claro.
+- Personalización de colores.
+- Desarrollado primero con la metodología Mobile First, luego para escritorio.
+- Compatible con todos los dispositivos móviles y con una hermosa y agradable interfaz de usuario
 
 
 
