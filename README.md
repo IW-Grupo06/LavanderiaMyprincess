@@ -1,5 +1,5 @@
-# Responsive Website Delivery 🚚
-### Responsive Website Delivery
+# Pagina web Responsive de la lavandería - Delivery 🚚
+### Pagina web Responsive de la lavandería - Delivery
 
 - Sitio web de la lavandería Myprincess, usando HTML, Sass y  JavaScript.
 - Incluye un modo oscuro y claro.
